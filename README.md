@@ -1,1 +1,2 @@
-Archery stats -
+## Archery Shooting sessions API
+
