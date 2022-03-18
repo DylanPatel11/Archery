@@ -1,2 +1,2 @@
 ## Archery Shooting sessions API
-================================
+
